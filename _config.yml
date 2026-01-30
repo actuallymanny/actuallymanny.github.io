@@ -1,7 +1,0 @@
-url: "https://manny.work"
-baseurl: "/"
-title: "manny.work"
-
-sass:
-  sass_dir: _sass
-  style: compressed
